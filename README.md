@@ -10,9 +10,9 @@ Live dashboard for total, TCP, UDP, ICMP, and SYN packet stats
 
 * Packet capture export:
 
-🧾 CSV: Packet metadata
+  🧾 CSV: Packet metadata
 
-🧪 PCAP: Full packet payloads
+  🧪 PCAP: Full packet payloads
 
 Works on Linux (requires root for interface sniffing)
 
