@@ -4,11 +4,11 @@ NetWatch is a lightweight, real-time network packet analyzer and terminal dashbo
 🛠 Features
 Live dashboard for total, TCP, UDP, ICMP, and SYN packet stats
 
-Top talkers (most active source IPs)
+* Top talkers (most active source IPs)
 
-Basic port scan detection (SYN scans)
+* Basic port scan detection (SYN scans)
 
-Packet capture export:
+* Packet capture export:
 
 🧾 CSV: Packet metadata
 
